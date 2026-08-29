@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for alist-7h6cag on 2026-08-29T14:29:16Z
+# fly.toml app configuration file generated for alist-xnoa-q on 2026-08-29T14:55:33Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'alist-7h6cag'
-primary_region = 'ams'
+app = 'alist-xnoa-q'
+primary_region = 'lax'
 
 [build]
 
